@@ -47,7 +47,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-nine-flax.vercel.app/api/spotify)](https://open.spotify.com/user/31bhtz2txnrtffrvb64ufq22djlq)
+[![Spotify](http://novatorem-nine-flax.vercel.app/api/spotify)](https://open.spotify.com/user/31bhtz2txnrtffrvb64ufq22djlq)
 
 
 <img
