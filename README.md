@@ -187,10 +187,15 @@
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+	<p align="center">
+
+  
+  <img src="./thinking.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sree-jith-k-s&show_icons=true&locale=en" alt="sree-jith-k-s" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sree-jith-k-s&" alt="sree-jith-k-s" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sree-jith-k-s&show_icons=true&locale=en&layout=compact" alt="sree-jith-k-s" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sree-jith-k-s" alt="sree-jith-k-s" /></a></p>
+]</p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
