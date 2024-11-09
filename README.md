@@ -4,7 +4,9 @@
   
   <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <img align="right" src="https://profile-counter.glitch.me/sree-jith-k-s/count.svg">
+    <div align="center">
+    <img align="right" src="https://profile-counter.glitch.me/sree-jith-k-s/count.svg?"  />
+</div>
     <br>
 
   <div align="center">
@@ -47,7 +49,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](http://novatorem-nine-flax.vercel.app/api/spotify)](https://open.spotify.com/user/31bhtz2txnrtffrvb64ufq22djlq)
+[![Spotify](https://novatorem-nine-flax.vercel.app/api/spotify)](https://open.spotify.com/user/31bhtz2txnrtffrvb64ufq22djlq)
 
 
 <img
@@ -321,3 +323,18 @@
 	<a href="https://www.instagram.com/surajks_official/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
 </p>
+<div align="center">
+  <a href="https://open.spotify.com/user/31bhtz2txnrtffrvb64ufq22djlq">
+    <img src="https://spotify-now-playing-readme.vercel.app/api?user=31bhtz2txnrtffrvb64ufq22djlq" alt="Spotify currently playing" />
+  </a>
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+
+
+###
