@@ -190,7 +190,7 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sree-jith-k-s&show_icons=true&locale=en" alt="sree-jith-k-s" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sree-jith-k-s&show_icons=true&locale=en&layout=compact" alt="sree-jith-k-s" /></p>
-]</p>
+</p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
