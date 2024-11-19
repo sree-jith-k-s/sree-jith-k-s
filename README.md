@@ -187,7 +187,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sree-jith-k-s&show_icons=true&locale=en&layout=compact" alt="sree-jith-k-s" /></p>
 </p>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/sree-jith-k-s/sree-jith-k-s/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
+
 <br/>
