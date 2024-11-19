@@ -32,7 +32,7 @@
   - A passionate Python developer
   - Currently learning New Technology by Self
   - Personal website [link](https://sreejithks.netlify.app/)
-  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1OK52QSf0orQn479lge7wqWEJaJryXXJi/view?usp=drive_link)
+  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1tFdj9E7sROYUCyhiTF684cwwe2ZQkV20/view?usp=drive_link)
   - Add Your Email - git config --global user.email "sreejithksrvsn@gmail.com"
 
   <br><br>
