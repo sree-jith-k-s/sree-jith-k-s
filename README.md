@@ -34,7 +34,6 @@
   - Personal website [link](https://sreejithks.netlify.app/)
   - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1OK52QSf0orQn479lge7wqWEJaJryXXJi/view?usp=drive_link)
   - Add Your Email - git config --global user.email "sreejithksrvsn@gmail.com"
-  - Add Your Username - git config --global user.name ["sree-jith-k-s"](https://sreejithks.netlify.app)
 
   <br><br>
 
@@ -86,10 +85,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
   </a>
 </p>
 
